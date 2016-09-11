@@ -1,0 +1,5 @@
+{
+  "chrome://browser/content/browser.xul": {
+    "PersonalToolbar": { "collapsed": "false" }
+  }
+}
