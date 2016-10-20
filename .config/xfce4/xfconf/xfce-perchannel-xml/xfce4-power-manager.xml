@@ -7,5 +7,6 @@
     <property name="logind-handle-lid-switch" type="empty"/>
     <property name="dpms-on-ac-sleep" type="uint" value="0"/>
     <property name="dpms-on-ac-off" type="uint" value="0"/>
+    <property name="blank-on-ac" type="int" value="0"/>
   </property>
 </channel>
