@@ -1,5 +1,1 @@
-{
-  "chrome://browser/content/browser.xul": {
-    "PersonalToolbar": { "collapsed": "false" }
-  }
-}
+{"chrome://browser/content/browser.xul":{"PersonalToolbar":{"collapsed":"false"},"main-window":{"sizemode":"maximized"},"sidebar-box":{"sidebarcommand":"","width":""},"sidebar-title":{"value":""}},"chrome://browser/content/places/bookmarkProperties.xul":{"bookmarkproperties":{"screenX":"332","screenY":"334","width":"360"}},"chrome://browser/content/sanitize.xul":{"SanitizeDialog":{"screenX":"308","screenY":"259"}}}
