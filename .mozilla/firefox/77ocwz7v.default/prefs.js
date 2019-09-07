@@ -63,7 +63,7 @@ user_pref("browser.sessionstore.upgradeBackup.latestBuildID", "20180704192850");
 user_pref("browser.shell.mostRecentDateSetAsDefault", "1567865783");
 user_pref("browser.slowStartup.averageTime", 1329);
 user_pref("browser.slowStartup.samples", 2);
-user_pref("browser.startup.homepage", "https://ser.cs.fit.edu/ser2018/");
+user_pref("browser.startup.homepage", "https://ser.cs.fit.edu/ser2019/");
 user_pref("browser.startup.homepage_override.buildID", "20190828152820");
 user_pref("browser.startup.homepage_override.mstone", "69.0");
 user_pref("browser.startup.lastColdStartupCheck", 1567865782);
